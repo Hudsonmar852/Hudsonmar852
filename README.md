@@ -46,8 +46,6 @@
 <body>
     <h1>大阪旅遊詳細行程計劃</h1>
     <hr>
-
-    <!-- 目錄 -->
     <h2 id="目錄">目錄</h2>
     <ol>
         <li><a href="#行程概覽">行程概覽</a></li>
@@ -74,10 +72,6 @@
         <li><a href="#在香港需要處理的事項">在香港需要處理的事項</a></li>
         <li><a href="#資料來源">資料來源</a></li>
     </ol>
-
-    <hr>
-
-    <!-- 行程概覽 -->
     <h2 id="行程概覽">行程概覽</h2>
     <ul>
         <li><strong>旅遊日期：</strong>2024 年 10 月 25 日（星期五）至 10 月 30 日（星期三）</li>
@@ -97,14 +91,8 @@
             </ul>
         </li>
     </ul>
-
-    <hr>
-
-    <!-- 重要資訊 -->
     <h2 id="重要資訊">重要資訊</h2>
-
     <h3 id="航班資訊">航班資訊</h3>
-
     <h4>去程</h4>
     <ul>
         <li><strong>航空公司：</strong>國泰航空（Cathay Pacific）</li>
@@ -122,7 +110,6 @@
         </li>
         <li><strong>航空公司預訂代碼（PNR）：</strong>3M78QD</li>
     </ul>
-
     <h4>回程</h4>
     <ul>
         <li><strong>航空公司：</strong>國泰航空（Cathay Pacific）</li>
@@ -131,9 +118,7 @@
         <li><strong>起飛時間：</strong>09:25（關西國際機場 T1）</li>
         <li><strong>抵達時間：</strong>13:00（香港國際機場 T1）</li>
     </ul>
-
     <h3 id="酒店資訊">酒店資訊</h3>
-
     <h4>大阪雷本酒店</h4>
     <ul>
         <li><strong>入住日期：</strong>10 月 25 日 - 10 月 28 日</li>
@@ -141,7 +126,6 @@
         <li><strong>地圖連結：</strong><a href="https://www.google.com/maps/place/%E3%83%AC%E3%82%A4%E3%83%9B%E3%83%86%E3%83%AB%E5%A4%A7%E9%98%AA/@34.6508621,135.5020823,17z">Google Maps</a></li>
         <li><strong>座標：</strong>34.6508°N, 135.5021°E</li>
     </ul>
-
     <h4>大阪康萊德酒店（Conrad Osaka）</h4>
     <ul>
         <li><strong>入住日期：</strong>10 月 28 日 - 10 月 30 日</li>
@@ -154,21 +138,15 @@
         <li><strong>地圖連結：</strong><a href="https://www.google.com/maps/place/Conrad+Osaka/@34.6915309,135.4910331,17z">Google Maps</a></li>
         <li><strong>座標：</strong>34.6915°N, 135.4910°E</li>
     </ul>
-
     <hr>
-
-    <!-- 詳細行程 -->
     <h2 id="詳細行程">詳細行程</h2>
-
     <!-- 星期五 -->
     <h3 id="星期五-10月25日">星期五，10 月 25 日</h3>
-
     <h4>抵達日本</h4>
     <ul>
         <li><strong>抵達機場：</strong>關西國際機場（KIX）</li>
         <li><strong>抵達時間：</strong>13:00</li>
     </ul>
-
     <h4>機場至酒店交通</h4>
     <ol>
         <li>
@@ -199,7 +177,6 @@
             </ul>
         </li>
     </ol>
-
     <h4>晚上活動：新世界與通天閣</h4>
     <ol>
         <li>
@@ -235,22 +212,14 @@
             </ul>
         </li>
     </ol>
-
-    <!-- 星期六 -->
     <h3 id="星期六-10月26日">星期六，10 月 26 日</h3>
-
-    <!-- Option 1 -->
     <h4 id="option1-前往大阪環球影城">Option 1：前往大阪環球影城</h4>
-
-    <h5>概覽</h5>
     <ul>
         <li><strong>目的地：</strong>大阪環球影城（Universal Studios Japan）</li>
         <li><strong>出發時間：</strong>7:00</li>
         <li><strong>預計返回時間：</strong>20:30</li>
         <li><strong>預計行程時間：</strong>全日</li>
     </ul>
-
-    <h5>詳細行程</h5>
     <ol>
         <li>
             <strong>從酒店前往大阪環球影城</strong>
@@ -330,7 +299,6 @@
                 <li><strong>08:15</strong>：排隊等待入園</li>
                 <li><strong>08:30</strong>：園區開門，入園</li>
             </ul>
-
             <h5>上午</h5>
             <ul>
                 <li><strong>超級任天堂世界（Super Nintendo World）</strong>
@@ -364,7 +332,6 @@
                     </ul>
                 </li>
             </ul>
-
             <h5>下午</h5>
             <ul>
                 <li><strong>哈利波特魔法世界</strong>
@@ -410,7 +377,6 @@
                     </ul>
                 </li>
             </ul>
-
             <h5>晚上</h5>
             <ul>
                 <li><strong>小小兵樂園</strong>
@@ -432,7 +398,6 @@
             </ul>
         </li>
     </ol>
-
     <h5>地圖與座標</h5>
     <ul>
         <li><strong>大阪環球影城</strong>
@@ -449,14 +414,10 @@
             </ul>
         </li>
     </ul>
-
     <!-- Option 2 -->
     <h4 id="option2-其他景點建議">Option 2：其他景點建議</h4>
-
     <!-- 由於篇幅限制，此處省略 Option 2 和後續行程。請按照上述格式繼續添加星期日和星期一的行程，確保所有連結完整可用 -->
-
     <hr>
-
     <!-- 需要提前預訂的項目 -->
     <h2 id="需要提前預訂的項目">需要提前預訂的項目</h2>
     <ol>
@@ -479,9 +440,7 @@
         </li>
         <!-- 其他預訂項目可按照此格式添加 -->
     </ol>
-
     <hr>
-
     <!-- 在香港需要處理的事項 -->
     <h2 id="在香港需要處理的事項">在香港需要處理的事項</h2>
     <ul>
@@ -509,9 +468,7 @@
             </ul>
         </li>
     </ul>
-
     <hr>
-
     <!-- 資料來源 -->
     <h2 id="資料來源">資料來源</h2>
     <ul>
@@ -522,6 +479,5 @@
         <li>交通路線查詢：<a href="https://www.google.com/maps">Google Maps</a></li>
         <li>大阪地鐵路線圖：<a href="https://www.osakametro.co.jp/en/">https://www.osakametro.co.jp/en/</a></li>
     </ul>
-
 </body>
 </html>
