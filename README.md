@@ -1,21 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-HK">
-<head>
-<meta charset="UTF-8">
-<title>大阪旅遊詳細行程計劃</title>
-<style>
-body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-h1, h2, h3, h4 { color: #2c3e50; }
-h1 { text-align: center; }
-a { color: #2980b9; text-decoration: none; }
-a:hover { text-decoration: underline; }
-hr { border: none; height: 1px; background-color: #ccc; margin: 40px 0; }
-ul { list-style-type: disc; margin-left: 20px; }
-ol { margin-left: 20px; }
-.indent { margin-left: 20px; }
-.note { color: #e74c3c; }
-</style>
-</head>
 <body>
 <h1>大阪旅遊詳細行程計劃</h1>
 <hr>
