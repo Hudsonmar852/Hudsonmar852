@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Prompt Selector</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Prompt Selector</h1>
+        
+        <!-- 第一層分類選擇 -->
+        <div id="categories">
+            <h2>Select Categories</h2>
+            <label><input type="checkbox" class="category-checkbox" data-target="appearance"> Appearance Features (外貌特徵)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="body"> Body Features (身材特徵)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="facial"> Facial Features (面部特徵)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="temperament"> Temperament & Expression (氣質與表情)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="clothing"> Clothing & Style (服裝與風格)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="pose"> Pose & Action (姿勢與動作)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="background"> Background & Environment (背景與環境)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="photography"> Photography & Art Style (攝影與藝術風格)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="details"> Additional Details & Enhancements (其他細節與修飾)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="cultural"> Cultural & Professional Elements (文化與職業元素)</label><br>
+            <label><input type="checkbox" class="category-checkbox" data-target="emotional"> Emotional & Scene Elements (情感與場景元素)</label><br>
+        </div>
+
+        <!-- 詳細提示詞選擇區域 -->
+        <div id="details" style="display: none;">
+            <h2>Select Details</h2>
+            <div id="prompt-options"></div>
+            <button id="confirm-btn">Confirm</button>
+        </div>
+
+        <!-- 最終提示詞顯示 -->
+        <div id="result" style="display: none;">
+            <h2>Generated Prompt</h2>
+            <p id="final-prompt"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
